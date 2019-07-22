@@ -7,7 +7,7 @@ runningTotals :: Num a => [a] -> ([a], a)
     ([1,3,6], 6)
 >>> runningTotals [2,-2,10,5]
     ([2,0,10,15], 15)
-``` haskell
+```
 
 Current state of play:
 ```
