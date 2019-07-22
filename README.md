@@ -84,6 +84,7 @@ variance introduced by outliers: 32% (moderately inflated)
 
 ```
 Strictness/unboxing benchmarks:
+
 benchmarking recursions/unboxed (case)
 time                 9.845 ms   (9.767 ms .. 9.948 ms)
                      0.999 R²   (0.997 R² .. 1.000 R²)
